@@ -1,0 +1,44 @@
+body{
+    background-color: #f1f1f1;
+    
+}
+.header{
+    background: blue;
+    width:100%;
+    margin-top: 0px;
+    height: 40px;
+    padding: 10px;
+    padding-bottom: 18px;
+    color:white;
+    text-align: center;
+}
+.nav{
+    width: 100%;
+    background-color: #f1f1f1;
+    height:40px;
+}
+.right{
+    margin:0 auto;
+    width: 400px;
+}
+
+.log{
+    background-color: skyblue;
+    height: 400px;
+    margin: 10px;
+}
+
+input[type= text],[type=password]{
+    padding:3px;
+    column-span: 5;
+  
+}
+.log h2{
+    text-align: center;
+    padding:20px;
+    color:wheat;
+}
+hr{
+    border:1px solid white;
+}
+
